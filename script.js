@@ -8,7 +8,7 @@
 
   /* ---------- Config ---------- */
 
-  const API_BASE = 'http://127.0.0.1:8000';   // no trailing slash
+  const API_BASE = "https://mansik-santulan-score-2-x844.onrender.com";   // no trailing slash
   const REQUEST_TIMEOUT_MS = 20000;
 
   // Scale used for the gauge. Change if your model's score range is different.
